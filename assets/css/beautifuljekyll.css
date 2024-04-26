@@ -508,7 +508,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-title {
-  font-size: 1.0rem;
+  font-size: 1.875rem;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -709,7 +709,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 3.125rem;
+  font-size: 2.125rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
