@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: BetterBusy Games
 
 # Your name to show in the footer
-author: Some Person
+author: BSP
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -142,9 +142,9 @@ page-col: "#191716"
 text-col: "#F6CA83"
 link-col: "#499763"
 hover-col: "#83C398"
-navbar-col: "#3D348B"
+navbar-col: "#16697A"
 navbar-text-col: "#F6CA83"
-navbar-border-col: "#16697A"
+navbar-border-col: "#F6CA83"
 footer-col: "#3D348B"
 footer-text-col: "#F6CA83"
 footer-link-col: "#499763"
