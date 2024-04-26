@@ -138,7 +138,7 @@ navbar-var-length: false
 # #191716 dark dark
 # #3D348B dark blue
 # #16697A dark carribean
-page-col: "#FFFFFF"
+page-col: "#191716"
 text-col: "#F6CA83"
 link-col: "#499763"
 hover-col: "#83C398"
